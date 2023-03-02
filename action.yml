@@ -1,6 +1,6 @@
 name: 'GitHub Environment Variables Action'
 description: 'Expose useful Environment Variables.'
-author: 'Franz Diebold'
+author: 'Kiran'
 runs:
   using: 'node16'
   main: 'dist/index.js'
